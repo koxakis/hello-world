@@ -2,4 +2,6 @@ Test
 
 More test
 
-Learn vim it is awesome
+Learn vim it is awesome 
+
+But Atom is better ;)
